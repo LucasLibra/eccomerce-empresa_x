@@ -41,3 +41,11 @@ _Checkout, __Tela de produto__, Catálogo, Home com banner_
 Contribuidor principal: https://www.github.com/LucasLibra
 
 [![Logo do Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)](https://www.github.com/LucasLibra)
+
+### Código da função soma
+
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
