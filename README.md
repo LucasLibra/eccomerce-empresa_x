@@ -31,3 +31,7 @@ _Checkout, __Tela de produto__, Catálogo, Home com banner_
 #### Imagem externa
 
 ![Logo do Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
