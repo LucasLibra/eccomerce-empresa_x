@@ -37,3 +37,5 @@ _Checkout, __Tela de produto__, Catálogo, Home com banner_
 [Google](https://www.google.com)
 
 [https://www.facebook.com](https://www.facebook.com)
+
+Contribuidor principal: https://www.github.com/LucasLibra
